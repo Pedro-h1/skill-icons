@@ -8,8 +8,6 @@
   <p>Repositório utilizado para recursos e testes relacionados a <strong>ícones de tecnologias</strong> e apresentação visual de projetos.</p>
 </div>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=bd93f9&animation=fadeIn" width="100%" />
 </div>
